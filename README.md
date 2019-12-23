@@ -1,0 +1,2 @@
+# Fashion_Mnist
+Project_to_run_supervised_machine_learning_on_fashion_mnist_data
